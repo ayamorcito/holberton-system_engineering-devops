@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod ug-rwxr,o+rwxr hello
